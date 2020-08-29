@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://youhe.github.io</id>
+    <id>https://youhe-github.github.io/youhe.github.io</id>
     <title>Gridea</title>
-    <updated>2020-08-29T15:27:46.452Z</updated>
+    <updated>2020-08-29T15:35:56.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://youhe.github.io"/>
-    <link rel="self" href="https://youhe.github.io/atom.xml"/>
+    <link rel="alternate" href="https://youhe-github.github.io/youhe.github.io"/>
+    <link rel="self" href="https://youhe-github.github.io/youhe.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://youhe.github.io/images/avatar.png</logo>
-    <icon>https://youhe.github.io/favicon.ico</icon>
+    <logo>https://youhe-github.github.io/youhe.github.io/images/avatar.png</logo>
+    <icon>https://youhe-github.github.io/youhe.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Test~]]></title>
-        <id>https://youhe.github.io/post/test~/</id>
-        <link href="https://youhe.github.io/post/test~/">
+        <id>https://youhe-github.github.io/youhe.github.io/post/test~/</id>
+        <link href="https://youhe-github.github.io/youhe.github.io/post/test~/">
         </link>
         <updated>2020-08-29T15:13:43.000Z</updated>
         <content type="html"><![CDATA[<pre><code></code></pre>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://youhe.github.io/post/hello-gridea/</id>
-        <link href="https://youhe.github.io/post/hello-gridea/">
+        <id>https://youhe-github.github.io/youhe.github.io/post/hello-gridea/</id>
+        <link href="https://youhe-github.github.io/youhe.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
