@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://youhe-github.github.io/youhe.github.io</id>
-    <title>飞鹤的笔记本：٩(*  ఠO ఠ)=3⁼³₌₃⁼³₌₃⁼³₌₃</title>
-    <updated>2020-08-29T16:30:41.604Z</updated>
+    <title>飞鹤的笔记本</title>
+    <updated>2020-08-29T16:31:51.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://youhe-github.github.io/youhe.github.io"/>
     <link rel="self" href="https://youhe-github.github.io/youhe.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>٩(*  ఠO ఠ)=3⁼³₌₃⁼³₌₃⁼³₌₃</subtitle>
     <logo>https://youhe-github.github.io/youhe.github.io/images/avatar.png</logo>
     <icon>https://youhe-github.github.io/youhe.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 飞鹤的笔记本：٩(*  ఠO ఠ)=3⁼³₌₃⁼³₌₃⁼³₌₃</rights>
+    <rights>All rights reserved 2020, 飞鹤的笔记本</rights>
     <entry>
         <title type="html"><![CDATA[鹤哥]]></title>
         <id>https://youhe-github.github.io/youhe.github.io/post/he-ge/</id>
