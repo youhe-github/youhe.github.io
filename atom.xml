@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://youhe.github.io</id>
     <title>Gridea</title>
-    <updated>2020-08-29T15:08:25.428Z</updated>
+    <updated>2020-08-29T15:14:08.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://youhe.github.io"/>
     <link rel="self" href="https://youhe.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://youhe.github.io/images/avatar.png</logo>
     <icon>https://youhe.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[Test~]]></title>
+        <id>https://youhe.github.io/post/test~/</id>
+        <link href="https://youhe.github.io/post/test~/">
+        </link>
+        <updated>2020-08-29T15:13:43.000Z</updated>
+        <content type="html"><![CDATA[<pre><code></code></pre>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://youhe.github.io/post/hello-gridea/</id>
